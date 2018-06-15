@@ -3,7 +3,8 @@
 
 - Some slides don't be found,if you have these slides, we will appreciate that you can share them with us.
 
-- [注]：所有会议的slides都可以下方链接处网页中下载，git push 速度太慢！请自行下载！或者提供国内百度云网盘打包链接！
+- [注]：所有会议的slides都可以下方链接处网页中下载，git push 速度太慢！请自行下载！
+- 提供国内[百度云网盘打包链接](https://pan.baidu.com/s/1KuVKwSMjvJdUGc7m6qb3Bw)！
 
 
 # ICCV11
